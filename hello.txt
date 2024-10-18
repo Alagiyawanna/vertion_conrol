@@ -1,0 +1,4 @@
+bye.txt
+this is new line
+hello world
+hi
